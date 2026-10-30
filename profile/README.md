@@ -16,9 +16,9 @@
 
 <p align="center">
   <a href="https://tkvaa.com"><b>tkvaa.com</b></a> &nbsp;·&nbsp;
-  <a href="https://tkvaa.com/he/business">For businesses</a> &nbsp;·&nbsp;
+  <a href="https://tkvaa.com/he/business">For&nbsp;businesses</a> &nbsp;·&nbsp;
   <a href="https://tkvaa.com/he/pricing">Pricing</a> &nbsp;·&nbsp;
-  <a href="https://apps.apple.com/il/app/id6786763756">App Store</a>
+  <a href="https://apps.apple.com/il/app/id6786763756">App&nbsp;Store</a>
 </p>
 
 <p align="center">
