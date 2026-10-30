@@ -64,7 +64,7 @@ Any business that works by appointment: barbershops and hair salons, nail, lash 
 
 <p align="center">
   <a href="https://tkvaa.com/he/business"><b>Open a booking page for your business →</b></a><br>
-  <sub>Free setup, ready in a few minutes · <a href="https://tkvaa.com/he/business">עברית</a> · <a href="https://tkvaa.com/ar/business">العربية</a></sub>
+  <sub>Free setup, ready in a few minutes · <a href="https://tkvaa.com/he/business">עברית</a>&lrm; · <a href="https://tkvaa.com/ar/business">العربية</a>&lrm;</sub>
 </p>
 
 <br>
